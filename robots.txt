@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://estevam-oliveira.github.io/wz-eleicoes-2026/sitemap.xml

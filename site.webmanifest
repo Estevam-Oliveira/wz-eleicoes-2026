@@ -1,0 +1,37 @@
+{
+  "name": "Eleições 2026 · Apuração 1º turno",
+  "short_name": "Eleições 2026",
+  "lang": "pt-BR",
+  "description": "Apuração ao vivo das eleições 2026 com dados do TSE, por cargo e por estado.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#F5F3EE",
+  "theme_color": "#01736A",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icon-512-maskable.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
